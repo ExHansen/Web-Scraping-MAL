@@ -1,6 +1,8 @@
 # Web-Scraping-MAL
 
-![MyAnimeList](https://upload.wikimedia.org/wikipedia/commons/7/7a/MyAnimeList_Logo.png)
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/MyAnimeList_Logo.png" alt="MyAnimeList" />
+</p>
 
 Anime has become a globally recognized form of entertainment with millions of fans around the world. MyAnimeList (MAL) is one of the most popular platforms that provides detailed information about anime, including ratings, number of episodes, release type, and user popularity.
 
