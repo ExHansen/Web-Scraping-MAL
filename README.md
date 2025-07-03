@@ -4,11 +4,17 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/MyAnimeList_Logo.png" alt="MyAnimeList" />
 </p>
 
-Link Tableau: https://public.tableau.com/views/MyAnimeList_Visualization1/Dashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
-
 Anime has become a globally recognized form of entertainment with millions of fans around the world. MyAnimeList (MAL) is one of the most popular platforms that provides detailed information about anime, including ratings, number of episodes, release type, and user popularity.
 
 In this project, I performed web scraping on the Top 250 Anime page on MyAnimeList to extract key information that can be used for further data analysis.
+
+Click the image down below to see Tableau Public:
+
+<p align="center">
+  <a href="https://public.tableau.com/views/MyAnimeList_Visualization1/Dashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" target="_blank">
+    <img src="https://github.com/user-attachments/assets/d95142f2-9804-46d4-a0d3-8818d826a9e8" alt="MyAnimeList Dashboard" width="800"/>
+  </a>
+</p>
 
 ## Features
 - **Extracts data** from multiple web pages, supporting pagination.
